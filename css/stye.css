@@ -34,7 +34,13 @@ img[src="Images/Logocommit.png"] {
     height: 600px;
     font-family: sans-serif;
     padding-left: 100px;
-    padding-right: 100px;
+    padding-right: 180px;
+}
+
+.jumbotron p {
+    font-size: 18px;
+    font-weight:bold
+
 }
 
 .lead {
